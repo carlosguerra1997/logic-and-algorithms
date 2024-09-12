@@ -1,0 +1,15 @@
+{
+  "name": "exercism",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Carlos Guerra García",
+  "license": "ISC",
+  "description": "Repository for learning about algorithms and programming logic",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
