@@ -7,8 +7,7 @@ const isArmstrongNumber = (number) => {
     result += sum
   })
 
-  if (result !== number) return false
-  return true
-};
+  return result === number
+}
 
 module.exports = { isArmstrongNumber }
